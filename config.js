@@ -58,16 +58,16 @@ global.ppulsa2 = '085608625102'
 global.psaweria = 'https://saweria.com/LeonGanz'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6282127104362'
-global.nomorown = '6282127104362'
-global.nomorpart = '6282127104362'
-global.namebot = 'Yusuf Oct'
-global.nameown = 'Yusuf Oct'
+global.nomorbot = '6285234107894'
+global.nomorown = '6285234107894'
+global.nomorpart = '6285234107894'
+global.namebot = 'Kori Oct'
+global.nameown = 'Kori Oct'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6282127104362', 'Yusuf Oct', true],
+  ['6285234107894', 'Kori Oct', true],
   ['6285608625102', 'Rama Agung', true],
   ['6282351319893', 'Muhimmah Putri', true],
   ['6283847909854', 'Zaky Rashif', true],
