@@ -58,20 +58,20 @@ global.ppulsa2 = '085608625102'
 global.psaweria = 'https://saweria.com/LeonGanz'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6282127104362'
-global.nomorown = '6282127104362'
-global.nomorpart = '6282127104362'
+global.nomorbot = '6285234107894'
+global.nomorown = '6285234107894'
+global.nomorpart = '6285234107894'
 global.namebot = 'Yusuf Oct'
 global.nameown = 'Yusuf Oct'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6282127104362', 'Yusuf Oct', true],
-  ['6285608625102', 'Rama Agung', true],
-  ['6282351319893', 'Muhimmah Putri', true],
-  ['6283847909854', 'Zaky Rashif', true],
-  ['6287877173955', 'Ferdiz-Afk', true]
+  ['6285234107894', 'Yusuf Oct', true],
+  ['6285234107894', 'Rama Agung', true],
+  ['6285234107894', 'Muhimmah Putri', true],
+  ['6285234107894', 'Zaky Rashif', true],
+  ['6285234107894', 'Ferdiz-Afk', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
