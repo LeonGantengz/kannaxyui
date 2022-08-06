@@ -43,26 +43,26 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
-global.sig = 'https://instagram.com/leonvx._'
+global.sig = 'https://instagram.com/_keita.store_'
 global.sgh = 'https://bl4ck-lion.github.io/index.php'
 global.sgc = 'https://chat.whatsapp.com/HHjPtKIjkzb1ud0QtrkbQH'
 global.sdc = 'https://discord.gg/WEJQjugTY7'
-global.snh = 'https://youtube.com/c/LeonGanz/'
+global.snh = 'https://youtube.com/c/Keita Lol/'
 
 /*============== PAYMENT ==============*/
-global.pdana = '085608625102'
-global.povo = '085608625102'
-global.pgopay = '085608625102'
-global.ppulsa = '085608625102'
-global.ppulsa2 = '085608625102'
+global.pdana = '081343243912'
+global.povo = '081343243912'
+global.pgopay = '081343243912'
+global.ppulsa = '081343243912'
+global.ppulsa2 = '081343243912'
 global.psaweria = 'https://saweria.com/LeonGanz'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6282127104362'
-global.nomorown = '6282127104362'
-global.nomorpart = '6282127104362'
-global.namebot = 'Yusuf Oct'
-global.nameown = 'Yusuf Oct'
+global.nomorbot = '6283899172939'
+global.nomorown = '6281343243912'
+global.nomorpart = '6281343243912'
+global.namebot = 'Keit-MD'
+global.nameown = 'KeiGanz'
 
 
 /*============== STAFF ==============*/
@@ -121,7 +121,7 @@ global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Yui - Chan ˘ฅ ꒱ ‧₊˚꒷�
 global.wm3 = '⫹⫺ Yui - Chan '
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = `⫹⫺ WhatsApp Bot | By LeonGanz`
+global.titlebot = `⫹⫺ WhatsApp Bot | By *KeiGanz*`
 global.author = '                「 Yui - Chan  あ⁩ 」'
 
 
